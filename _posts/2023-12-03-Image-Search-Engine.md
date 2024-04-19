@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Image SearcH Engine
-image: "/posts/primes_image.jpeg"
+image: ""
 tags: [Python, Primes]
 ---
 #########################################################################
