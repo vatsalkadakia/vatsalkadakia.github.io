@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Predicting Customer Loyalty Using ML
-image: "/posts/regression-title-img.png"
+image: "https://github.com/vatsalkadakia/vatsalkadakia.github.io/blob/master/img/posts/regression-title-img.png"
 tags: [Customer Loyalty, Machine Learning, Regression, Python]
 ---
 
