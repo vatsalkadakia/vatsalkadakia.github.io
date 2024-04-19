@@ -2,7 +2,7 @@
 layout: post
 title: Image SearcH Engine
 image: ""
-tags: [Python, Primes]
+tags: [Python, CNN]
 ---
 #########################################################################
 # Convolutional Neural Network - Image Search Engine
