@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Vatsal Kadakia
-description: "Hi I'm Vatsal, and I'm a Data Scientist/Analyst.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+description: "Welcome! I’m Vatsal Kadakia — a data-driven storyteller who turns raw numbers into insights that move the needle. From building deep-learning image search engines to crafting interactive Tableau/Power BI dashboards, I thrive on end-to-end problem-solving: cleaning data, modeling trends, and translating results into clear, business-ready actions. Browse the projects below (each chosen for its real-world impact), and feel free to connect with me on GitHub or LinkedIn to talk shop, collaborate, or just say hello!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
