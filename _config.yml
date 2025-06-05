@@ -9,7 +9,13 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Vatsal Kadakia
-description: "Welcome! I’m Vatsal Kadakia — a data-driven storyteller who turns raw numbers into insights that move the needle. From building deep-learning image search engines to crafting interactive Tableau/Power BI dashboards, I thrive on end-to-end problem-solving: cleaning data, modeling trends, and translating results into clear, business-ready actions. Browse the projects below (each chosen for its real-world impact), and feel free to connect with me on GitHub or LinkedIn to talk shop, collaborate, or just say hello!"
+description: >-
+  Hi, I’m Vatsal — a data-driven problem solver who turns messy
+  datasets into clear, business-ready insights. I specialise in SQL,
+  Python, Tableau and machine-learning workflows that span the full
+  lifecycle ~ data acquisition ➜ modelling ➜ interactive
+  visualisation ➜ stakeholder storytelling. Browse the projects
+  below to see how data has powered real-world impact.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
